@@ -6,7 +6,7 @@ case, we want to download the table of CPI of different regions and dissagregate
 in categories and core CPI. An example of url to download this type of data would
 be:
   
-`https://servicios.ine.es/wstempus/js/ES/DATOS_METADAOPERACIÓN/IPC?g1=115:29&g2=3:74&g3=762:&nult=1
+`https://servicios.ine.es/wstempus/js/ES/DATOS_METADAOPERACIÓN/IPC?g1=115:29&g2=3:74&g3=762:&nult=1`
 
 We will only focus on `/DATOS_METADATAOPERACION/IPC?g1=70:9009&g2=3:74&g3=762:&p=1&nult=1`
 
