@@ -15,7 +15,7 @@ different features.
 - `/IPC` is the variable of interest. After that, there is a `?` which precedes some parameters
 of the search.
 - `g1=115:29`, `115` refers to the code of geographical level. In this case, it is provincial 
-level and the province is Madrid, with code 29. Table ___codigo_provincias___ show all the codes.
+level and the province is Madrid, with code 29. Table ___codigo_provincias___ shows all the codes.
 - `g2=3:74`, `3` selects the group TYPE OF DATA that for this particular case is anual variation.
 See table ___codigos_tipo_dato___ for more options.
 - `g3=762`, with this code, we are able to select all the categories in which the CPI 
