@@ -10,7 +10,7 @@ library(lubridate)
 library(rlist)
 library(magrittr)
 
-rm(list = ls())
+rm(list = ls()) 
 #################################################
 
 # Per tal d'extreure dades mitjançant el creuament de metadades s'ha d'utilitzar un altre tipus d'url.
