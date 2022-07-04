@@ -24,6 +24,4 @@ is computed. See table ___codigos_grupos_ECOICOP___ for more information.
 of the series.
 
 If you want to download any type of table, I leave here the webpage where you can
-define your own URL to access to any dataset.
-
-https://www.ine.es/dyngs/DataLab/es/manual.html?cid=45
+define your own URL to access to any dataset. See https://www.ine.es/dyngs/DataLab/es/manual.html?cid=45.
